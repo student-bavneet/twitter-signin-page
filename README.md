@@ -1,1 +1,1 @@
-# This is Twitter sign up page.
+# This is Twitter sign in page.
